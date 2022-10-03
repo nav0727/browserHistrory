@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  width: 80vw;
+  height: 5vh;
+  margin: 2vh;
+
+  justify-content: space-around;
+}
+.list {
+  height: 5vh;
+  width: 90vw;
+}
+.con {
+  display: flex;
+
+  flex-direction: row;
+  width: 50vw;
+}
+.title {
+  margin-left: 10px;
+}
+.btn {
+  background-color: #fff;
+  height: 5vh;
+  border: 1px #fff;
+  width: 5vw;
+}
